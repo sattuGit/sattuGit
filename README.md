@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sattuGit
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning C++/python
+- 💞️ I’m looking to collaborate on *
+- 📫 How to reach me : www.satendra.info
